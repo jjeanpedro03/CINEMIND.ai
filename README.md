@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🎬🚀%20Visualizar%20Projeto-6366f1?style=for-the-badge&logo=react&logoColor=white" alt="Visualizar Projeto">
+    <img src="https://img.shields.io/badge/🎬%20Visualizar%20Projeto-6366f1?style=for-the-badge&logo=react&logoColor=white" alt="Visualizar Projeto">
   </a>
 </p>
 
